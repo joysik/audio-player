@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.buttons {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+
+}
+.play {
+    font-size: 32px;
+    padding: 10px 20px;
+}
+.pause {
+    font-size: 32px;
+    padding: 10px 20px;
+}
+.mute {
+    font-size: 32px;
+    padding: 10px 20px;
+}
